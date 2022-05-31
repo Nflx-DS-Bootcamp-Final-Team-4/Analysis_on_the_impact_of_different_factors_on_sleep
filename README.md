@@ -1,5 +1,5 @@
-Final project for Netflix Datascience intro bootcamp
-# Final Project-Group-4-sleepy-heads
+# Final Project-Group-4
+
 Contributors: Gaston Shefa, Mahederemariam Bayleyegn Dagne, Guillermo Sanchez Lamas, Salvador Villalon Jr
 Purpose: 
 
